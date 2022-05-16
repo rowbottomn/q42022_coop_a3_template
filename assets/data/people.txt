@@ -1,0 +1,1 @@
+people = ["Jean-Claude","Pierre","Jean","Amelie","Mirabelle","Isabelle","Antonin","Bernard","Owen","Dylan","Herbert","Christine","Luc","Cecilian","Lionel","Benoit","Robert","Charline","Renaud","Michel","Pierre-Louis","Etienne","Henri","Damien"]

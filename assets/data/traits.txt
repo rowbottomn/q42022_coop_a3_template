@@ -1,0 +1,1 @@
+traits = ["Male","Female","Glasses","Brown eyes","Bald","White hair","Small mouth","Mustache","Brown hair","Big mouth","Small nose","Blue eyes","Hat","Long hair","Black hair","Earrings","Blonde hair","Ginger hair","Beard","Big nose"]
