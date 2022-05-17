@@ -1,3 +1,3 @@
 <div class="footer">
-	&copy; <?php print date("Y");?>
+	&copy; Rowbottom <?php print date("Y");?>
 </div>

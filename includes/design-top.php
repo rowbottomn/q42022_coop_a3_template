@@ -1,3 +1,3 @@
 <div class="jumbotron">
-	<h1>Hello there!</h1>
+	<h1>Guess Who Assignment</h1>
 </div>

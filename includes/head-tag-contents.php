@@ -4,8 +4,10 @@
 	<meta name="description" content="" />
 	<meta name="keywords" content="" /> 
 <?php } ?>
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 
-<link rel="stylesheet" type="text/css" href="../includes/style.css">
+<link rel="stylesheet" type="text/css" href="includes/css/style.css">
+
 <style>
 
 </style>
