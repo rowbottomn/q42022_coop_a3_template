@@ -1,9 +1,23 @@
 # basic-php-project-template
 
-1 Change the extra pages given to your and rename them
-2 Update the info in the a_config.php to reflect the new names and purposes
-3 Make an html form to collect login info for users
-    a If its a new user add them to database
-    b If they are returning player then give welcome message
-    c forward to the question page
-    
++ Getting the project ready to work.
+    * open xampp, vscode, file explorer, myphpadmin
++ Importing the SQL file for the project.
+    * Fixes for the SQL data
+    * looking at the SQL commands for the project
+    * Using myphpadmin to figure out commands on the fly.
++ Modifying or adding the pages for your project.
+    * Modyfying the a-config file
+    * Modifying the navigation code
+    * Modifying the individual pages
+    * About the project
++ About the example login code.
+    * 
++ Starting the project.
+    + Simple login with database.
+        + Make a fetch function uses the PDO object
+            + return the record if available
+            + returns NULL
+   
+
+

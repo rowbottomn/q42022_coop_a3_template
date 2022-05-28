@@ -10,11 +10,11 @@ To make sure yours is the same, uncomment out the line at 8*/
 	switch ($_SERVER["SCRIPT_NAME"]) {
 		case "/a3/question.php":
 			$CURRENT_PAGE = "Question"; 
-			$PAGE_TITLE = "Question Page";
+			$PAGE_TITLE = "Questions";
 			break;
 		case "/a3/result.php":
 			$CURRENT_PAGE = "Result"; 
-			$PAGE_TITLE = "Results page";		
+			$PAGE_TITLE = "Results";		
 			break;
 		default:
 			$CURRENT_PAGE = "Index";
